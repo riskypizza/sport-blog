@@ -26,14 +26,24 @@ table {
   width: 100%;
 }
 
+
+.stred{
+	border-bottom: 4px solid red;
+	
+}
+
 td, th {
-  border: 1px solid #dddddd;
+	
+	border-top: 1px solid black;
+  border-bottom: 1px solid black;
   text-align: left;
   padding: 8px;
+  color: black;
+  text-align: center;
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
+  background-color: lightblue;
 }
 ul{
 text-align: center;
