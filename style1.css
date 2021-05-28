@@ -26,6 +26,9 @@ table {
   width: 100%;
 }
 
+#stredd{
+	text-align: left;
+}
 
 .stred{
 	border-bottom: 4px solid red;
@@ -88,6 +91,10 @@ letter-spacing: 2px;
 }
 
 
+.st{
+	
+	text-align: left;
+}
 
 .post-title {
 	font-size: 48px;
