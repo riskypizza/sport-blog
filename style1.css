@@ -22,10 +22,25 @@ body{
 }
 
 
-table, th, td {
+.mat {
   border: 1px solid black;
   text-align: center;
 }
+
+
+
+
+.eri {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+
+ 
+}
+
 
 
 ul{
