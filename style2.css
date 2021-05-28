@@ -8,7 +8,7 @@ body{
 }
 
 .logo a {
-	background: url('../sport blog/logo.png') left top no-repeat;
+	background: url('../sportblog/logo.png') left top no-repeat;
 	display: block;
 	width: 960px;
 	height: 105px;
@@ -70,7 +70,7 @@ letter-spacing: 2px;
 }
 
 .cover {
-	background: #fff url('../sport blog/Futbal/background.png') 50% 30px no-repeat ;
+	background: #fff url('../sportblog/Futbal/background.png') 50% 30px no-repeat ;
 	height: 239px ;
 	margin-top: -70px;
 	position: relative;
